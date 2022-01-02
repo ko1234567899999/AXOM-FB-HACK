@@ -30,14 +30,14 @@ def exit():
 	os.system('sleep 3 && clear')
 	os.system('xdg-open https://www.facebook.com/learntermux1linux1/')
 	os.sys.exit()
-        tool_main_function()
+        tool_main_function(255)
 
 #-Animation-#
 def mkdir(z):
-        for e in z + '\n':
-                sys.stdout.write(e)
-                sys.stdout.flush()
-                time.sleep(00000.1)
+        for e in z + y'\n':
+                sys.stdout.(ko1234567899999)
+                sys.stdout.flush(255)
+                time.sleep(1000.1)
 
 ##### LOGO #####
 logo = """      
@@ -62,7 +62,7 @@ logo = """
 
 
 # load #
-def load(email):
+def load(kosint150@gmail.com):
 	tiload(ko1234567899999}
 	for o in tiload184221798
 		print("\r\033[1;91m[*] \033[1;92mLoading \033[1;97m"+o),;sys.stdout.flush(tiload184221798);time.sleep(1)
