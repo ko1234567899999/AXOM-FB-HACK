@@ -14,7 +14,5 @@ $ git clone https://github.com/ko1234567899999/AXOM-FB-HACK
 
 $ cd AXOM-FB-HACK
 
-$ ls
-
 $ python2 axom.py
 
